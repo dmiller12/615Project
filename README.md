@@ -1,8 +1,7 @@
 
 Using python 3.8, install the required libraries with `pip install -r requirements.txt`
 
-To train a network first download the MNIST rotated dataset
-Rotated dataset can be found at http://www.iro.umontreal.ca/~lisa/icml2007data/mnist_rotation_new.zip
+To train a network first download the MNIST rotated dataset found at http://www.iro.umontreal.ca/~lisa/icml2007data/mnist_rotation_new.zip
 
 Place this data uncompresssed in data/raw
 
